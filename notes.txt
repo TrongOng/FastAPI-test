@@ -1,0 +1,2 @@
+uvicorn fastapi-test:app --reload (access swagger UI URL) + (constant reload)
+/docs (swagger UI) - test
